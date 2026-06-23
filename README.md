@@ -72,8 +72,6 @@ Double‑click the file, or use a live server extension in VS Code.
 📬 Contact
 Email: sarthak.deokar31@gmail.com
 
-Phone: +91 9272127008
-
 Location: Pimpri Chinchwad, Maharashtra, India
 
 🤝 Contributing
